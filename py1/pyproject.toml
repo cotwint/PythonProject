@@ -1,0 +1,11 @@
+[project]
+name = "py1"
+version = "0.1.0"
+description = "Iris数据集实验，包括自定义KNN算法的实现与验证"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "scikit-learn",
+    "seaborn"
+]
